@@ -53,7 +53,7 @@
     },
     "EMOJI": {
       "description": "Add your favorite emoji ",
-         "value": "💚",
+         "value": "🦋",
       "required": false
     },
     "SESSION": {
@@ -68,12 +68,12 @@
 
 "EVENTS": {
       "description": "choose whether to allow bot to detect events in groups such as promote, demote, remove and add. If set to true bot will send welcome/goodbye messages and signal when somebody is promoted or demoted.",
-      "value": "true",
+      "value": "false",
       "required": false
     },
 "AUTOBIO": {
       "description": "Type true if you want bot to autoupdate it's bio constantly",
-         "value": "true",
+         "value": "false",
       "required": false
         },
 "ANTIDELETE": {
@@ -83,17 +83,17 @@
         },
 "CHATBOT": {
       "description": "Type true if you want bot to automatically reply to messages in your pm .",
-         "value": "true",
+         "value": "false",
       "required": false
         },
 "GREET": {
       "description": "Type true if you want bot to automatically send greet text anytime the bot restats.",
-         "value": "true",
+         "value": "false",
       "required": false
         },
 "AUTODOWNLOAD_STATUS": {
       "description": "Type true if you want bot to automatically download status update .",
-         "value": "true",
+         "value": "false",
       "required": false
         },
 "GREET_MSG": {
@@ -103,7 +103,7 @@
         },
 "VOICECHATBOT": {
       "description": "Type true if you want bot to automatically send voice chat bot message privately ",
-         "value": "true",
+         "value": "false",
       "required": false
         },
 "ANTICALL_MSG": {
@@ -113,13 +113,13 @@
         },
 "ANTICALL": {
       "description": "Type true if you want bot to reject unnecessary calls",
-         "value": "true",
+         "value": "false",
       "required": false
     },
 
 "GROUP_CONTROL": {
       "description": "Type true if you want the bot to kick those who send link or bad words in group .",
-         "value": "true",
+         "value": "false",
       "required": false
     },
 "URL": {
